@@ -18,14 +18,14 @@ namespace IpLikeCalc
         Division,
         Multiplication
     }
-    public partial class Form1 : Form
+    public partial class Calculator : Form
     {
         private string _firstValue;
         private Operation _currentOperation = Operation.None;
         private string _secondValue;
         private bool _isTheResultOnTheScreen = false;
-
-        public Form1()
+        
+        public Calculator()
         {
             InitializeComponent();
             tbScreen.Text = "0";
