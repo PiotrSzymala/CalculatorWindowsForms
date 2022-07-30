@@ -1,4 +1,5 @@
 # CalculatorWindowsForms
+[![calc.png](https://i.postimg.cc/d3LTGnbf/calc.png)](https://postimg.cc/zHYBrwXw)
 ## Description
 My project is a dark-colored calculator based on the iPhone app with logic implemented.
 ## Aim of the project
