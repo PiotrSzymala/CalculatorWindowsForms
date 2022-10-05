@@ -9,5 +9,3 @@ I did this project to consolidate the knowledge that I gained throughout the int
 Project is created with:
 * C#
 * Windows Forms.
-## Project status
-* 1.0 version developed.
